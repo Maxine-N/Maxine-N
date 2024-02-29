@@ -1,6 +1,4 @@
-## Hi, I’m Maxine 👋 
-- 😄 Pronouns: She/Her
-  
+## Hi, I’m Maxine 👋   
 - 💻 DevOps Engineer
   - 🚢 Kubernetes
   - ⛑️ Helm
