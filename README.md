@@ -4,7 +4,7 @@
   - ⛑️ Helm
   - 🏗️ Terraform
   - 🤖 Ansible
-  - 🛠️ Azure DevOps
+  - 🛠️ Azure DevOps & GitLab
   - 🐋 You can also find the tools I'm using in my Docker image: [DevOps-Tools-Image](https://github.com/Maxine-N/DevOps-Tools-Image)
 - [🏡 Smart Home Enthusiast](https://github.com/stars/Maxine-N/lists/smart-home)
 - [🖨️ 3D Printing Enthusiast](https://github.com/stars/Maxine-N/lists/3d-printing)
